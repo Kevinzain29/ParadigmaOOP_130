@@ -39,7 +39,7 @@ public:
 
 int main()
 {
-	pelajar siswa1("Ahmad tampan pemberani", "SMAN 1 Tana Paser");
+	pelajar siswa1("Ahmad tampan dan pemberani", " SMAN 1 Tana Paser");
 	cout << siswa1.perkenalan();
 	cout << "hasil = " << siswa1.jumlah(10, 90) << endl;
 
